@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1495633327 source:c:\users\nguyen van khai\documents\baitaplon\snake\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Snake.h"
+	"Map.h"
+	"Food.h"
+	"Gameplay.h"
+
+1495621742 c:\users\nguyen van khai\documents\baitaplon\snake\snake.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1495617841 c:\users\nguyen van khai\documents\baitaplon\snake\map.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1495617841 source:c:\users\nguyen van khai\documents\baitaplon\snake\map.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"Map.h"
+
+1495621389 source:c:\users\nguyen van khai\documents\baitaplon\snake\snake.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Snake.h"
+	"Map.h"
+
+1495622003 source:c:\users\nguyen van khai\documents\baitaplon\snake\food.cpp
+	"Food.h"
+
+1495622003 c:\users\nguyen van khai\documents\baitaplon\snake\food.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Map.h"
+	"Snake.h"
+
+1495633519 source:c:\users\nguyen van khai\documents\baitaplon\snake\gameplay.cpp
+	"Gameplay.h"
+
+1495685981 c:\users\nguyen van khai\documents\baitaplon\snake\gameplay.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Snake.h"
+	"Map.h"
+	"Food.h"
+
